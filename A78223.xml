@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>King Davids church-prayer: set forth in a sermon, / preached at S. Margaret Pattens, alias Rood-Church London, on S. John Baptists day in the after-noone, being Sunday the 24. of June, 1649. By Tho: Barton, seven yeers sequestred for observing the fift commandement.</title>
+            <author>Barton, Thomas, 1599 or 1600-1682 or 3.</author>
+         </titleStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78223</idno><idno type="EEBO-CITATION">99865318</idno>
+  <idno type="VID">165247</idno>
+  <idno type="EEBO-PROQUEST">2240907165</idno>
+  
+            <idno type="STC">Wing B998</idno>
+            <idno type="STC">Thomason E562_28</idno>
+            <idno type="STC">ESTC R206140</idno>
+            <idno type="PROQUEST">99865318</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865318e"/>
+            <note>(EEBO-TCP ; phase 2, no. A78223)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165247)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E562[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>King Davids church-prayer: set forth in a sermon, / preached at S. Margaret Pattens, alias Rood-Church London, on S. John Baptists day in the after-noone, being Sunday the 24. of June, 1649. By Tho: Barton, seven yeers sequestred for observing the fift commandement.</title>
+                  <author>Barton, Thomas, 1599 or 1600-1682 or 3.</author>
+               </titleStmt>
+               <extent>[8], 22, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>The final leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "July 5th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible. --  O.T. --  Psalms LI, 18 --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2013-05 </date>
+            <label>Geremy Carnes </label>Sampled and proofread </change>
+         <change>
+            <date>2013-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165247:1"/>
+            <p>KING <hi>DAVIDS</hi> CHURCH-PRAYER: <hi>Set forth in a</hi> SERMON, <hi>PREACHED</hi> At S. <hi>Margaret Pattens,</hi> alias <hi>Rood-Church</hi> LONDON, on S. <hi>John Baptists</hi> day in the After-noone, being Sunday the 24. of <hi>June,</hi> 1649.</p>
+            <p>
+               <hi>By</hi> THO: BARTON, <hi>Seven yeers Sequestred for observing the fift Commandement.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>2 TIM. 4.1.</hi>
+               </bibl>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>
+                  <hi>Be instant in season, out of season.</hi>
+               </p>
+            </q>
+            <q>
+               <hi>Ʋtilitas proximo: gloria Deo.</hi>
+            </q>
+            <p>Printed in the Year, 1649.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:165247:2"/>
+            <pb facs="tcp:165247:2"/>
+            <head>To his Orthodox Auditours, and all others Loyally affected.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He earnest desire of some, the mis-appre<g ref="char:EOLhyphen"/>hension of others, and the faint-hearted<g ref="char:EOLhyphen"/>nesse of too many emboldned these lines to undergoe the presse.</p>
+            <p>Full they are not, as they might be full. Daily losses for eight yeares will make a good store emptie.</p>
+            <p>Nor can it be unknown, that the Author, as one of those <hi>Aegyptian</hi> dogs, to avoid the <hi>Crocodils,</hi> laps at <hi>Nilus</hi> here and there, in haste, and by stealth.</p>
+            <p>'Tis folly to complaine. Who study the <hi>Mothers</hi> ruine, delight in her <hi>Childes</hi> lamentation.</p>
+            <p>Yet he, with a holy emulation will, by the grace of God, alwayes endeavour to pay, in spite of their malice, his duty unto <hi>Almighty God, unto his dread Soveraign CHARLES the Second, and his chast Mother the true Church of</hi> ENGLAND.</p>
+            <p>But where is no reason to be frightned, <hi>that very pay<g ref="char:EOLhyphen"/>ment</hi> seemes to afray beyond reason.</p>
+            <p>He hath observed the attentive, at the preaching of Loyalty, startled by a shadow: and the cause he findes this.</p>
+            <p>Men, numerous more, then otherwise considerable, are impetuous, through thick, and thin, to reach, and pull up, if possible, the very rootes of Soveraignty.</p>
+            <pb facs="tcp:165247:3"/>
+            <p> Where <hi>Allegeance</hi> therefore appeares, a deprivation may be feared either of life, or liberty, or propriety.</p>
+            <p>O the depth, breadth, height of Covetousnesse, Envy, Ambition! Of their Impudency too, that cover those impieties with a net!</p>
+            <p>By the counsell also of the great God it is, that, for the sinne of one man, one dialect should not fit all, nor all men frame themselves alike to one conformity.</p>
+            <p>His comfort then is, that the treasure he parts with, will, by no <hi>Art,</hi> be transformed into a <hi>Molten Calfe.</hi>
+            </p>
+            <p>All the confusion proceeds from that <hi>Idol-anarchy,</hi> the Devill first hatched in a distempered brain; then brought forth by <hi>Midwifes</hi> of his own procuring; and in scorne of <hi>Monarchy,</hi> and <hi>Hierarchy</hi> is now more cryed up, then was <hi>Diana</hi> among the <hi>Ephesians.</hi>
+            </p>
+            <p>Yet he sees not why a <hi>Royalist</hi> should prove <hi>pusillani<g ref="char:EOLhyphen"/>mous.</hi> Great hope there is, that it may please the <hi>Highest</hi> by <hi>the Soveraigne power,</hi> and his <hi>Assistents</hi> to destroy <hi>the Brain-sick-monster,</hi> subdue the <hi>Rebels,</hi> and returne the <hi>deceived people</hi> obedient Subjects.</p>
+            <p>With his hearty prayers let him beg yours for it. And that peace may settle, and the Gospell flourish under <hi>King CHARLES</hi>'s <hi>Crown,</hi> and his lawfull <hi>Successours,</hi> so long as the <hi>Sun</hi> and <hi>Moone</hi> shall endure, he prayes: and doe you every one say, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Yours faithfully in all<lb/> obedience to</hi> the <hi>true-Church<lb/> of</hi> ENGLAND.<lb/> T. B.</signed>
+            </closer>
+         </div>
+         <div type="prayer">
+            <pb facs="tcp:165247:3"/>
+            <head>HIS PRAYER.</head>
+            <p>ALmighty, and most mercifull Father, we humbly beseech thee to blesse the holy Catholick Church militant on Earth, with unity, and thy peace-preserving discipline.</p>
+            <p>Be mercifull unto all that suffer for the testimony of thy Truth, and let them see the spirit of Comfort coming toward thē. Comfort every one any way afflicted; especially those that mourne for sin.</p>
+            <p>In particular, we pray unto thee for these Churches of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> that thou wilt be pleased to bind up, and heal the wounds, which our sinnes have made so wide, that none but thy owne hands can close.</p>
+            <p>Most especially we pray unto thee for him, whom we, by thy Law, by the Law of nature, by the Law of this Land, &amp; by solemn Oaths (from which no Antichrist can absolve us) are bound to acknow<g ref="char:EOLhyphen"/>lege our Soveraign Lord, <hi>CHARLES,</hi> the Second, by thy Grace, <hi>KING</hi> of <hi>England, Scotland, France,</hi> and <hi>Ireland,</hi> Defendour of the Faith, and in all His Dominions over all Persons, and in all causes, as well Ecclesiasticall, as Temporall, Supream Governour.</p>
+            <p>That He be ever Zealous for, and constant to thy Truth. That the devices of those, which plot against Him, come to nought. That He be preserved in all dangers, and restored to His Just Rights. That he have the Victory over all his Enemies, &amp; a long peaceable Raigne in His Kingdomes. And that the Gospell be permitted to flourish in them, till Christ come in power and glory.</p>
+            <p>We pray thee also for Her persecuted Majesty, our most graci<g ref="char:EOLhyphen"/>our Queen <hi>MARY</hi> dowager, the Duke of <hi>YORK,</hi> and the rest of the Royall Progeny in custody, and exile.</p>
+            <p>That thy holy Sprit alwayes dwell in them. That thy wil be their Law. That thy Kingdome be their Glory. And that for the time of their affliction they may enjoy many years of comfort here, and eternall happines hereafter.</p>
+            <pb facs="tcp:165247:4"/>
+            <p> We pray thee for the Ministers of thy holy Word and Sacra<g ref="char:EOLhyphen"/>ments, by what Names, or Titles soever distinguished.</p>
+            <p>That those which are in prison be released. That they be pre<g ref="char:EOLhyphen"/>served, who are in perils abroad, and at home in perils. That our trespasses be forgiven, our faith strengthned, our afflictions sanctified unto us, and we to thy perpetuall service.</p>
+            <p>We pray thee for His Majesties most Honourable Counsell, and all that be in Authority under Him.</p>
+            <p>That every one in their severall Callings, remembring the accompt to be made, may truly, and painfully labour to the glory of thy great Name, in the edifying, and well Government of thy People, and the re-establishing of the King.</p>
+            <p>We pray thee for the whole Commons of this Realme.</p>
+            <p>That the erring be undeceived, and all of us on Land, and at Sea, once more united, as a people of one Soul, in the fear of thee, in humble obedience to thy Ordinance, and brotherly charity one to another.</p>
+            <p>We pray thee also for all that are visited with sicknesse; and namely, those that desired the supplications of this Congre<g ref="char:EOLhyphen"/>gation.</p>
+            <p>That in thy good pleasure, the meanes used for, be blessed to their recovery. That their offences however be remitted, their faith improved, their patience increased; and that they, assisted by thy holy Spirit, against their spirituall Enemies, may continue thy faithfull Souldiers unto eternall glory.</p>
+            <p>Be pittifull to all Prisoners and Captives, to all Fatherlesse Children and Widowes, and all that be desolate and oppres<g ref="char:EOLhyphen"/>sed.</p>
+            <p>Of thy favour returne, or for thy honour subvert thine, the Kings, and our Enemies.</p>
+            <p>Stay thy hand, and be not angry with us for ever. Shew thy mercy over all thy workes, over all our sinnes too, and be recon<g ref="char:EOLhyphen"/>ciled unto us in Christ Jesus our Lord.</p>
+            <pb facs="tcp:165247:4"/>
+            <p> In whose Name we praise thee for all blessings both of this life, and that to come: but principally for the ineffable work of our Redemption, for the ordinary means to our salvation, for our health, liberty, daily maintenance, and preserva<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Finally, we praise thee for all those that are departed out of this life, in the faith of Christ; and pray unto thee for his grace, that we following their good example in the right observing of thy will revealed in thy word, may with them after this life ended be partakers of a glorious resurrection in life everlasting, through Jesus Christ, our onely Mediatour and Advo<g ref="char:EOLhyphen"/>cate.</p>
+            <p>In whose Name, and Prayer for these, and what else need<g ref="char:EOLhyphen"/>full, we most humbly beseech thee to hear us good Lord.</p>
+            <q>
+               <p>Our Father, which art in Heaven, &amp;c.</p>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:165247:5"/>
+            <pb n="1" facs="tcp:165247:5"/>
+            <head>
+               <hi>PSAL. 51.18.</hi> Be favourable unto <hi>Sion</hi> for thy good plea<g ref="char:EOLhyphen"/>sure; build up the Walls of <hi>Ierusalem.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">K</seg>Ing <hi>David</hi> committed foul, and bloudy Sinnes; wherein he lay secure more then a whole yeer. Out of this deep lethargie the Lord, by the Prophet <hi>Nathan,</hi> brings him to his senses.</p>
+            <p>For being by sharp reproof touched to the quick, he breakes forth into this penitentiall. A Psalme, and Prayer very patheticall, very fervent.</p>
+            <p>First, in particular for himselfe. <hi>Have mercy upon me.</hi> Because <hi>a broken heart, O God, thou wilt not despise.</hi> For<g ref="char:EOLhyphen"/>givenesse of what is past, and grace to be kept upright in the future are the totall of seventeen verses.</p>
+            <p>Secondly, in generall for the whole Church. Mind<g ref="char:EOLhyphen"/>ing himselfe he forgets not others. His own sense pro<g ref="char:EOLhyphen"/>duceth further compassion.</p>
+            <p>Inward melting diffuseth love. And he comes neerest God, whose mercy is over all.</p>
+            <p>Not therefore unto <hi>David</hi> onely be <hi>favourable:</hi> but unto <hi>Sion for thy good pleasure. Build up the Walls of Jerusalem, ver.</hi> 18.</p>
+            <p>This verse conteines <hi>Davids</hi> petition for the holy Church of God.</p>
+            <pb n="2" facs="tcp:165247:6"/>
+            <p> First at large, That God be mercifull unto her. <hi>Be favourable unto</hi> Sion <hi>for thy good pleasure.</hi>
+            </p>
+            <p>Secondly, that his mercy be speciall in making up what by his sins <hi>David</hi> had hindred. <hi>Build up the walls of Jerusalem.</hi>
+            </p>
+            <div type="part">
+               <head>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Be favourable.</head>
+               <p>In the Originall it is so much as prosper,<note place="margin">Sept. Aqu. Sym.</note>
+                  <hi>deale bountifully,</hi> blesse, preserve. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Benè, &amp; benignè fac Domine,</hi> doe well Lord, and plentifully for <hi>Sion,</hi> that she flourishing <hi>by,</hi> may be confirmed <hi>in</hi> thy grace.</p>
+               <p>
+                  <hi>Sion</hi> here signifies the People of God; and the Pro<g ref="char:EOLhyphen"/>phets suite is not so much for their temporall, as spiri<g ref="char:EOLhyphen"/>tuall Glory. For both, that nothing might be wanting.</p>
+               <p>But the heavenly provision is his chief aime. For Gods <hi>Sion,</hi>
+                  <note place="margin">Ludol.</note>
+                  <hi>in speculatione supernorum,</hi> is rapt in the contemplation of the highest things.</p>
+               <p>That Gods Name be acknowledged, preached, called on, that is it. The onely way to divert imminent judg<g ref="char:EOLhyphen"/>ments is fervent prayer.</p>
+               <p>The Children of <hi>Israel</hi> in <hi>Aegypt sighed, and cryed un<g ref="char:EOLhyphen"/>to the Lord, Exod.</hi> 2.23. when <hi>Haman</hi> had procured the Kings Letters to destroy the Jewes, <hi>they fasted and pray<g ref="char:EOLhyphen"/>ed, Hes.</hi> 4.16. When <hi>Nehemiah</hi> saw the residue that were left of the captivity in great Affliction, the Walls of <hi>Jerusalem</hi> broken, and the Gates burnt, <hi>He sate down, wept, mourned, fasted, prayed, Nehem.</hi> 1.3, 4. In our bondage under the <hi>Babylonians</hi> we sate, we wept, we prayed for the restauration of <hi>Jerusalem, Psalm.</hi> 137.1.6.</p>
+               <p>At this our distraction in <hi>England,</hi> what shall we doe?</p>
+               <pb n="3" facs="tcp:165247:6"/>
+               <p> When the <hi>Philistims</hi> prevailed, and troubles came, <hi>sicut unda undam,</hi> as wave upon wave, the Arke taken, <hi>Phinehas,</hi> and <hi>Eli</hi> dead, the wife of <hi>Phinehas</hi> wounded in soul, hastned in travaile, and, in humiliation of the spirit, called <hi>her child Ichabod, the glory is departed from Israel,</hi> 1 <hi>Sam.</hi> 4.19.21.</p>
+               <p>Factions there are among us, like <hi>Apodes,</hi>
+                  <note place="margin">Plin.</note> ever stir<g ref="char:EOLhyphen"/>ring to sow, as <hi>Cadmus,</hi> and <hi>Jason,</hi> the Draggons teeth throughout the Kingdome.</p>
+               <p>So that <hi>Ephraim</hi> is against <hi>Manasses, Manasses</hi> against <hi>Ephraim,</hi> and both against <hi>Judah, Isay</hi> 9.21.</p>
+               <p>The <hi>Independent</hi> against the <hi>Presbyterian,</hi> the <hi>Presbyte<g ref="char:EOLhyphen"/>rian</hi> against the <hi>Independent,</hi> and both against the true <hi>Protestant.</hi>
+               </p>
+               <p>If we descend to private Families, behold the Servants in opposition to the <hi>Children,</hi> the <hi>Children</hi> to the <hi>Ser<g ref="char:EOLhyphen"/>vants,</hi> and both at defiance with the <hi>Parents.</hi>
+               </p>
+               <p>If we look into our selves, are we not, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, selfe vexers? The <hi>Flesh</hi> at enmity with the <hi>Spirit,</hi> the <hi>Spirit</hi> with the <hi>Flesh,</hi> and both united against our <hi>Saviour.</hi>
+               </p>
+               <p>Where is a sundring of the members, <hi>quid aliud quàm totius interitus,</hi> a ruine of the whole will fol<g ref="char:EOLhyphen"/>low.</p>
+               <p>
+                  <hi>Who sing this division, O God, divide, and scatter them in</hi> Israel. <hi>Convert them in thy mercy, or confound them to thy glory.</hi>
+               </p>
+               <p>They that stood, and still doe stand on our defence with the Sword in hand, use it not to let forth others bloud, but as forced for the preservation of their own.</p>
+               <p>
+                  <hi>Preces &amp; lachrymae,</hi> Prayers and Teares are our chief armes. <hi>Moses</hi> so pleads with God for the <hi>Israelites, Exod.</hi> 32.11.31. And that we should so doe, God himselfe
+<pb n="4" facs="tcp:165247:7"/>hath so prescribed. <hi>Let the Priests, the Ministers of the Lord weep between the Porch and the Altar, and let them say, spare thy people O Lord, Joel.</hi> 1.17.</p>
+               <p>In this practice is <hi>David</hi> here. As if he knew no other meanes to take away the Sword, which God, <hi>pro pec<g ref="char:EOLhyphen"/>cato suo,</hi> for his sinne had appointed unto <hi>Sion.</hi>
+               </p>
+               <p>
+                  <hi>Kings,</hi> and <hi>Magistrates,</hi> Gods <hi>Vicegerents</hi> on Earth, and the <hi>Ministers,</hi> his <hi>Ambassadours</hi> are principally bound to pray for the Church. Nor are the leaders without their followers: Ye, in every ranck, <hi>that are mindefull of the Lord be not silent; give him no rest till he be favourable, and make</hi> Jerusalem <hi>a praise in the earth, Isay</hi> 62.6, 7.</p>
+               <p>Gods wrath hath been many yeeres powred forth, and his indignation very high. He threatens us with ruine, to remove his Gospell, to take away his faithfull Messengers, and to make the golden Bels of <hi>Aaron</hi> yeild no sound.</p>
+               <p>'Tis full time then, that every one amend one, and that all of us unanimously cry out unto the Lord for <hi>Sions</hi> sake,<note place="margin">Arnobius.</note>
+                  <hi>Ut non destruatur, sed magis aedificetur,</hi> that she may not be destroyed, but repaired, and beauti<g ref="char:EOLhyphen"/>fied.</p>
+               <p>For if the <hi>Prayer of a righteous man be</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>ef<g ref="char:EOLhyphen"/>fectuall, Jam.</hi> 5.16. how much more available are the prayers of hundreds, of thousands united as one? <hi>Vis unita fortior,</hi> Spirits collected re-double. One cord may be easily broken, but a three-fold hardly, <hi>Ecclef.</hi> 4.12.</p>
+               <p>
+                  <hi>Elijah</hi> is called the <hi>Charet of</hi> Israel, <hi>and the horse-men thereof,</hi> 2 <hi>Kings</hi> 2.12. because he did more by prayer, then an Army of Souldiers, for the Church.</p>
+               <p>What singular comfort then have we, who see the per<g ref="char:EOLhyphen"/>secuted
+<pb n="5" facs="tcp:165247:7"/>zealously exhibiting their petitions in all humi<g ref="char:EOLhyphen"/>lity unto the Lord?</p>
+               <p>Whilest the oppressed are so piously bent, certainly our God will descend in mercy, and he that hath <hi>sowed in teares, shall reap in joy, Psal.</hi> 126.5.</p>
+               <p>Let every one therefore pray, and pray for all, that all may pray for every one.</p>
+               <p>The more pittifull we are to others, the more favou<g ref="char:EOLhyphen"/>rable God is to us.</p>
+               <p>
+                  <hi>Abraham</hi> in the sense thereof prayed for the <hi>Sodomites</hi> that they might be spared, <hi>Gen.</hi> 18.23. Our Saviour wills us to pray, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, for those that infest us, <hi>Mat.</hi> 5.44. And we finde himselfe on the Crosse, <hi>Luke</hi> 23.34. and after him his <hi>Protomartyr, Act.</hi> 7.60. presidents thereof.</p>
+               <p>God is witnesse, that, without repining, I mention my foes alwayes in my prayers. Wherein I am so well instructed, I abhor to faile.</p>
+               <p>It is, I know, the Lords command, <hi>Pray for the peace of Jerusalem;</hi> for our own good too, that we so pray; <hi>They shall prosper which love thee, Psal.</hi> 122.6. Though my right hand then forget its cunning, yet my heart, by the grace of God, shall never be unmindfull of <hi>Sion, Psal.</hi> 137.5.</p>
+               <p>Who understand the Curse will be afraid of the Woe. <hi>Woe to them</hi> saith the Prophet, <hi>that are at ease in Sion, Am.</hi> 6.1. That securely laugh, when the Church weepeth; that live in bravery, when she is in sackcloth, that feast at her fasting, woe to them.</p>
+               <p>But woe, and everlasting woe to them, if they repent not, <hi>that persecute him whom the Lord hath smitten,</hi> and adde to their sorrow <hi>whom he hath wounded, Psal.</hi> 69.26, 27.</p>
+               <pb n="6" facs="tcp:165247:8"/>
+               <p> Who see this, sue we for safety; and humbly unto God, that he will take us out of the mire wherein we stick, that he will deliver us from them which hate us, and not permit the water-floud to drown us.</p>
+               <p>
+                  <hi>Hear, O Lord, for thy loving kindnesse. Hide not thy face from thy servants, but turne unto us according to the multitude of thy tender mercies. Save us O God, and that soone.</hi>
+               </p>
+               <p>The <hi>Prodicians, Adamites,</hi> and <hi>Cyrenaick Phylosophers</hi> affirm praying <hi>supervacaneall.</hi> The <hi>Pelagians</hi> hold it not necessary, &amp; therefore not profitable. The <hi>Antinomians, Anabaptists, Brownists, Separatists, and Independents</hi> of our time, as borne of <hi>Wolfes,</hi> and nourished by <hi>Tygers,</hi> are so farre from praying for, that they cut the throat of their <hi>chast Mother the Church,</hi> and endeavour to era<g ref="char:EOLhyphen"/>dicate the consecrated posterity, her children.</p>
+               <p>This sight, and their thriving therein may daunt much. But who shall goe into the <hi>Sanctuary of God,</hi> will finde their places slippery, and their end horrible desolation, <hi>Psal.</hi> 73.17, 18, 19.</p>
+               <p>'Tis granted,<note place="margin">S. John Baptist.</note> and this dayes Saint is a record, that judgment begins at Gods own house. If then <hi>the green tree be not spared,</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>What wil become of the withered? Luke</hi> 23.31. They that turn back, and review former Histories, may discerne the fittest fuel for the fire.</p>
+               <p>I have read that suddain death, desperation, madnesse, unusuall diseases, &amp;c. have accompanied bloudy <hi>Tyrants</hi> in their passage hence.</p>
+               <p>Who live as <hi>mare tumultuosum,</hi> the troublesome Sea, at death is no peace to the ungodly.</p>
+               <p>For the conclusion hereof, accept, I beseech you, this character.</p>
+               <p>True Christians perceiving sinne in themselves, and
+<pb n="7" facs="tcp:165247:8"/>therefore themselves naturally very miserable, will not neglect the appointed meanes for mercy. Find<g ref="char:EOLhyphen"/>ing a speciall promise annexed unto prayer they seeke till they finde; aske till they have; knock till they enter. Nor is their charity appropriated, they hold it in community; as if the more diffusive, the richer it. There is such Sympathie among them, that capable of one anothers sufferings, one will pray for himselfe, and all; and all for themselves, and every one. A petition of confirmation they preferre for their Friends, and of con<g ref="char:EOLhyphen"/>version for their Enemies. No affront can be so great, as shall condemne them in a contempt of their comman<g ref="char:EOLhyphen"/>ded duty. Though their ambition be very high in Spi<g ref="char:EOLhyphen"/>ritualls, yet their love will not admit of Envy. For they hold not their felicity full without the communion of Saints. And therefore remembring themselves will ne<g ref="char:EOLhyphen"/>ver forget others. Every ones request is for favour. <hi>Be favourable O Lord;</hi> but not to me onely, <hi>be favoura<g ref="char:EOLhyphen"/>ble unto Sion.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Be favourable.</head>
+               <p>The originall being in <hi>Hiphil</hi> implies a meliora<g ref="char:EOLhyphen"/>tion. Make thy word free in the passage. And be thy will precious more and more to <hi>Sion.</hi> For as prayer is a ready meanes to obtaine favour, so of favours a principall one is the preaching of the Truth. Because the saving of Soules, and the encrease of the Church depend on the right, and due performance of the service of God.</p>
+               <p>When the people may without controle assemble to sanctifie the <hi>Sabbath,</hi> call on the Lord in his <hi>Sanctuary,</hi> and worship him in the <hi>Beauty of holinesse,</hi> Gods mercy is speciall unto them, and their comfort should be sin<g ref="char:EOLhyphen"/>gular in him.</p>
+               <pb n="8" facs="tcp:165247:9"/>
+               <p>
+                  <hi>Fides quae vera Deum quaerit in verbo,</hi>
+                  <note place="margin">Bez.</note>
+                  <hi>&amp; quidem prae<g ref="char:EOLhyphen"/>dicato.</hi> The Patriarchs, Prophets, Apostles, and Martyrs exulted in nothing more then at the publishing of the Word of Life.</p>
+               <p>Glory therein they did, and well they might. Because the more active men are in the conversion of Soules, the more glorious they shall be in Heaven, <hi>Dan.</hi> 12.3.</p>
+               <p>There is no blessing on earth to this. No other ordi<g ref="char:EOLhyphen"/>nary way to beget Faith, and without Faith no ascent unto Glory, <hi>Rom.</hi> 10.13, 14.</p>
+               <p>What cause then have we had to exalt the holy Name of God in this Land? We are yet living, who may aver that the Primitive times after the Apostles exceeded not our former dayes.</p>
+               <p>Before the late <hi>cloudes of Sophistry</hi> obscured our <hi>Ho<g ref="char:EOLhyphen"/>rizon,</hi> the <hi>Sun-beames</hi> had their course, and we comfort in the <hi>reflex.</hi>
+               </p>
+               <p>All-glorious was this Church within, and without glorious. So glorious, that other Nations admiring, came from far to behold, and partake of her jewels.</p>
+               <p>Can we minde this without lamentation? we who see the consecrated edifices of Gods Worship propha<g ref="char:EOLhyphen"/>ned, the Scriptures perverted, the Sacraments slighted, or contemned; and the Orthodox Administers thereof no better then <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>the off-scourings of all things,</hi> and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>the very filth of the world, Lam.</hi> 3.45. 1 <hi>Cor.</hi> 4.13.</p>
+               <p>Shall we behold this, and not be troubled?</p>
+               <p>
+                  <hi>My bowels swell, my heart is turned within me, Lam.</hi> 1.20. For in this degeneration what can be expected, save a Chaos worse then the eldest <hi>Tohu?</hi>
+               </p>
+               <p>The confusion is already great. Ignorance, Propha<g ref="char:EOLhyphen"/>nesse, Impiety, Idolatry, Superstition, Sacriledge, Drun<g ref="char:EOLhyphen"/>kennesse,
+<pb n="9" facs="tcp:165247:9"/>Theft, Adultery, Murther, Swearing, <hi>Sodomie,</hi> all manner of Sins have their full scope.</p>
+               <p>That they have; and to uphold this beastly <hi>Liberti<g ref="char:EOLhyphen"/>nisme,</hi> the religious <hi>Atheists</hi> stand in Armes watching for an opportunity to surprise, and massacre the oppo<g ref="char:EOLhyphen"/>sers.</p>
+               <p>Could a man beleeve, that Christians would thus, <hi>Coelum petere,</hi> threaten Heaven? But,<note place="margin">Hor.</note>
+                  <hi>Audax omnia per<g ref="char:EOLhyphen"/>peti gens hamana,</hi> Mankind is so daring, that nothing prohibited will frighten from the perpetration.</p>
+               <p>That man is so, is the direst judgement. For where God withdrawes his grace, the Devill reignes. In whose possession to be, is to be deprived of happinesse, and cast into utter darknesse. Into such misery, as no such. It holds <hi>weeping, and gnashing of teeth for evermore, Mat.</hi> 8.12.</p>
+               <p>Angry then, exceeding angry is the Lord, when he takes away his watchmen. When he will no longer give his Word, the Famine is extreame, <hi>Am.</hi> 8.11.</p>
+               <p>His vialls of wrath are this way pouring forth among us. If we stop them not by true Repentance, we shall either not be, or, which is worse, be no Christians. <hi>Where prophesying failes, the people perish,</hi> Prov. 29.18.</p>
+               <p>
+                  <hi>But where the Pulpits, and private Parlers too,</hi>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label>
+                  <hi>ring of the Gospell of Jesus Christ, is there no Vision? When the people throng daily to hear the Word of the Lord in their meeting-houses, how faileth prophesying?</hi>
+               </p>
+               <p>There is preaching, and there is prating. <label type="milestone">
+                     <seg type="milestoneunit">Solut. </seg>
+                  </label> That legi<g ref="char:EOLhyphen"/>timate; this spurious. Preaching in the genuine sense, as <hi>Orthodox,</hi> is silenced. The Arbitrary powers will so have it, and have it so, to make the people Owles. As if they ought to shun the light and live in dark<g ref="char:EOLhyphen"/>nesse.</p>
+               <pb n="10" facs="tcp:165247:10"/>
+               <p>'Tis the <hi>lying spirit, in the mouth of the false Prophets</hi> breathing forth speares, and lances against the Preachers of the Truth, hath charmed the eares, and hardned the hearts of too many, that they will not hear, nor beleeve the undeniable evidence of the Scriptures. <hi>The prophets prophesie lies, and the people delight therein, Jer.</hi> 5.31.</p>
+               <p>These <hi>inchanters</hi> are bold, and busie. Cryed up also; because their Doctrine is new. They suppresse Gods re<g ref="char:EOLhyphen"/>vealed Will, and, as of his councell, pretend the know<g ref="char:EOLhyphen"/>ledge of his hidden. Yea, they not onely anticipate Gods Spirit, but make his spirit contradict him<g ref="char:EOLhyphen"/>selfe.</p>
+               <p>Of many instances I'le give but one. Wisdome saith, <hi>By me Kings Raign, Prov.</hi> 8.15. they say by the people, and that in malice to equalize the Scepter, and the Coulter.</p>
+               <p>Such doctrine is now common, and so prevalent, that the observers grow numerous, and heady. Head-strong to lose their Lives rather, and damne their Soules, then desert their Rebellion.</p>
+               <p>That they will; and Saint <hi>Paul</hi> gives the reason, 2 <hi>Tim.</hi> 3.2. because they are, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Selfe-lovers,</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>without naturall affection,</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Traytors,</hi> such as pre<g ref="char:EOLhyphen"/>tending godlinesse, deny the power thereof. Read there the Apostles expresse of them, and you wil conclude, that we are fallen <hi>into the perillous times, ver.</hi> 2, 3, 4, 5, 6, 7, 8, 9.</p>
+               <p>Perillous times indeed, when <hi>John Baptist</hi> must be be<g ref="char:EOLhyphen"/>headed for telling <hi>Herod</hi> the truth, <hi>Mat.</hi> 14. When men will not suffer <hi>wholsome Doctrine,</hi> but having <hi>itching ears, get them,</hi> after their <hi>own lusts,</hi> an <hi>heap of teachers, and be given unto fables,</hi> 2 <hi>Tim.</hi> 4.3, 4. the times be perillous indeed.</p>
+               <p>So perillous also, as the Sword, Pestilence, Famine,
+<pb n="11" facs="tcp:165247:10"/>and Slavery make perillous. These arrowes of the Al<g ref="char:EOLhyphen"/>mighty flie among us daily. But above all judgements, most fearfull is the Famine of his Word in the corrupti<g ref="char:EOLhyphen"/>on of his Truth.</p>
+               <p>Black is the day wherein we shall wander from Sea to Sea, run from North to South, to and fro, <hi>for the bread of life,</hi> and not obtaine it, <hi>Am.</hi> 8.11, 12.</p>
+               <p>To perish in body will sad the Soul, but in Soul and Body is a torment ineffable.</p>
+               <p>
+                  <hi>In mercy Lord, look on us. Behold us in thy Sonne, and turne thy indignation from us. Though our Sinnes be great, yet thy grace can superabound. And if thou wilt not pardon us all, destroy not thine with the unrighteous all. For thy name sake be propitious in the prosperous preserving of</hi> Sion.</p>
+               <p>The <hi>Philosophers, Atheists, Jewes,</hi> that deride the Gospell; the <hi>Machiavellians,</hi> our politick Sectaries, that cloke their covetousnesse and ambition with Reli<g ref="char:EOLhyphen"/>gion; the desperately prophane, and debaucht, that fear neither God, nor Devill; the <hi>Neuters,</hi> that, like Meteors in the aire, hang between Heaven and Hell; the loose <hi>Libertines, Predestinates,</hi> who think there is, <hi>Plus alloes, quam mellis,</hi> bitter more, then sweet in the strict observance of the divine Statutes, are with <hi>Jannes</hi> and <hi>Jambres</hi> in a degree of madnesse evident to all men. So evident, that 'tis generally said, who resist the Truth, are Reprobate concerning the Faith.</p>
+               <p>True Christians of all Gods favours prize his Word at the highest rate. Temporall blessings they value as from his hand, and for their use. But yet in re<g ref="char:EOLhyphen"/>spect of Spirituall, they can hold them with contempt. To leave them, life and all, for the Truths sake, is their honour. Such is their delight in the Gospell, that their
+<pb n="12" facs="tcp:165247:11"/>prayers be constant for the continuance, and for Heaven<g ref="char:EOLhyphen"/>ly Gifts to enable them in the justification thereof. They acknowledge no Church where the Word is not acknowledged. Whose lives are hid in Christ, they de<g ref="char:EOLhyphen"/>prived of him, live not. Their senses externall, and in<g ref="char:EOLhyphen"/>ternall, are taken up with nothing more, then him cru<g ref="char:EOLhyphen"/>cified. He is the beloved of the Father, and of all the fa<g ref="char:EOLhyphen"/>vours God bestowed, none like him, yea without him none on us. Beleevers then will look unto the Author, and Finisher of our Faith. Their daily prayers are, that the severall members of Christs mysticall Body may, in their measures, be replenished with his pleasures. So pleasant is he to them, that they renew their petitions often: nor doe they cease till they receive grace suffici<g ref="char:EOLhyphen"/>ent. Sufficient, not to one only, but for all sufficient. The penitent including himselfe, excludeth not any other from mercy. <hi>Be favourable, O Lord, be favourable unto</hi> Sion.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Unto Sion.</hi>
+               </head>
+               <p>There is <hi>Sion</hi> a Mountain on the North side of <hi>Canaan,</hi> near the entring into <hi>Hamath.</hi> This hath severall names, as <hi>Hor, Numb.</hi> 34.7. <hi>Hermon, Deut.</hi> 4.48. <hi>Shirion</hi> among the <hi>Sydonians,</hi> by the <hi>Amorites Shenir, Deut.</hi> 3.9.</p>
+               <p>Diverse people called it according to the diverse parts of that Mountaine. <hi>Shenir</hi> therefore, and <hi>Hermon</hi> are set downe distinct, <hi>Cant.</hi> 4.8. <hi>Shirion, Psal.</hi> 29.6. is the Mount that bringeth forth fruites;<note place="margin">Chald. Paraph.</note> and <hi>Shenir</hi> the Snow-mount. So high, that the top thereof was usually cove<g ref="char:EOLhyphen"/>red with Snow.</p>
+               <p>Secondly, there is <hi>Sion</hi> a Mountain, or as in the Ori<g ref="char:EOLhyphen"/>ginall a drie place, free from mire in <hi>Jerusalem.</hi> On the top thereof was a strong Fort, which by force the
+<pb n="13" facs="tcp:165247:11"/>
+                  <hi>Jebusites</hi> kept from <hi>Israel</hi> till <hi>Davids</hi> dayes, <hi>Josh.</hi> 15.63. 2 <hi>Sam.</hi> 5.6, 7.</p>
+               <p>From, them it was taken, fortified, and called by <hi>David, Davids City,</hi> 2 <hi>Sam.</hi> 5.6.7. 1 <hi>Chron.</hi> 11.4, 5, 6.</p>
+               <p>Neer to this was <hi>Moriah,</hi> where <hi>Abraham</hi> thought to have sacrificed his Sonne, <hi>Gen.</hi> 22.2. and <hi>Solomon</hi> built the Temple, 2 <hi>Chron.</hi> 3.1.</p>
+               <p>This <hi>Sion</hi> is the <hi>Lords mountaine of holinesse,</hi> Psal. 2.6. or <hi>holy mount,</hi> Joel 3.17. <hi>which he loved,</hi> Psal. 78.68. <hi>whence his Law should come forth,</hi> Isay 2.3. Mich. 4.2. <hi>and where he would dwell for ever,</hi> Psal. 132.13, 14.</p>
+               <p>A figure therefore of <hi>Christs Church, Heb.</hi> 12.22. <hi>Rev.</hi> 14.1. <hi>Isay</hi> 60.14. and for his Church militant is taken here.</p>
+               <p>Whether then we read this <hi>Sion</hi> as some; thy <hi>Sion</hi> as others, or <hi>Sion,</hi> as we translate, with, or without a demonstrative, <hi>Sion</hi> is <hi>sancta civitas,</hi> the holy City. And that holy City, <hi>quae abscondi non potest super montem,</hi>
+                  <note place="margin">Agust.</note>
+                  <hi>which cannot be hid upon the hill,</hi> Mat. 5.14.</p>
+               <p>Thereby denoting the visibility of the Church. Through the thickest clouds of persecution she ever did, and still doth shine.</p>
+               <p>God shines on Her, and she is resplendent in the light of Him. <hi>In speculation Sion,</hi> heavens eye being alwayes on Her, her eye is alwayes up to Heaven. And the rea<g ref="char:EOLhyphen"/>son is, <hi>aliquid spectat, quod sperat,</hi> what she lookes after she hopes for.</p>
+               <p>They are in, and of <hi>Sion,</hi> who have the full promise in expectation, and doubt not of fruition full.</p>
+               <p>
+                  <hi>But if</hi> Sion <hi>be so precious in Gods sight,</hi>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label>
+                  <hi>how comes she into misery, or</hi> David <hi>to be so mistaken?</hi>
+               </p>
+               <p>My answer is, <hi>Boni publici rationem David neglexerat,</hi>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Solut. </seg>
+                  </label>
+                  <hi>David,</hi> had slighted much the publick good.<note place="margin">Ju<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>.</note> For when
+<pb n="14" facs="tcp:165247:12"/>he provoked God, <hi>peccato suo,</hi> by his two-fold sinne of adultery, and murther, then he exposed his people <hi>gladio inimicorum,</hi> to the sword of the enemy.</p>
+               <p>Finding therefore fault at home, he feared miserie might flie abroad.<note place="margin">Horat.</note>
+                  <hi>Quicquid delirant reges plectuntur Achivi,</hi> for Kings failes, Subjects are plagued sore. And the cause is, <hi>Regis ad exemplum, &amp;c.</hi> like King, people the like.</p>
+               <p>One capitall crime may prove a deluge to drown the maine. Yea, though the people partaked not in the sinne, yet <hi>the numbring of them pestilenced to death sea<g ref="char:EOLhyphen"/>venty thousand,</hi> 2 <hi>Sam.</hi> 24.15.</p>
+               <p>
+                  <hi>Abundans cautela non nocet,</hi> to secure a Kingdome, a King cannot be too cautelous. On this ground <hi>David,</hi> lest he,<note place="margin">Beno.</note>
+                  <hi>sicut Saul, rejiceretur,</hi> as <hi>Saul</hi> was, should be re<g ref="char:EOLhyphen"/>jected, and so the work of setting forth the Glory of God <hi>by him,</hi> be <hi>by him</hi> subverted, <hi>haec precatus est,</hi> made this prayer.</p>
+               <p>
+                  <hi>Exodus</hi> sheweth how <hi>Pharaohs</hi> sinne plagued the <hi>AEgyptians.</hi> For <hi>Achans</hi> sinne the Curse of God fell upon the children of <hi>Israel, Josh.</hi> 7.1. when <hi>Saul, Achab, Joram,</hi> and other Kings lived in impiety, the Scriptures declare how eminent the judgments of God were among them, and their people.</p>
+               <p>If the head be ill, the whole body is out of frame. As then the King prayes for the people, that they may be undeceived, so the people should pray for the King, that he may be kept upright.</p>
+               <p>But may not the head fare ill, if the inferiour mem<g ref="char:EOLhyphen"/>bers be ill affected? when sense is diffused in the whole body, the least offence in any part must needs return thither.</p>
+               <p>In this <hi>Kingdome</hi> the very murmurring of the people
+<pb n="15" facs="tcp:165247:12"/>against <hi>Gods Anointed,</hi> and his <hi>Prophets,</hi> hath throwne down the Crowne, let in all manner of prophanesse, and brought the Sword, Pestilence, Famine, to de<g ref="char:EOLhyphen"/>vour us.</p>
+               <p>Nor may better be expected. For these grudgings have produced unparalleled acts of Regicide, of nulling the Kingly office, of making it Treason to obey Gods Vice<g ref="char:EOLhyphen"/>gerent, of eradicating Episcopacy, and selling the Church-lands.</p>
+               <p>Not therfore <hi>against Moses and Aaron, but against the Lord are these doings,</hi> Exod. 16.8. <hi>Qui humanam contem<g ref="char:EOLhyphen"/>nit authoritatem, Deum ipsum contemnit,</hi> who contem<g ref="char:EOLhyphen"/>neth Gods Ministers, contemneth God himselfe.</p>
+               <p>And so displeasing is this rebellion, that 'tis compared to the <hi>sinne of witch craft.</hi> As if men therein were con<g ref="char:EOLhyphen"/>tracted to the Devill, 1 <hi>Sam.</hi> 15.23.</p>
+               <p>Most vile is that offence which God punisheth more visibly then any sinne immediately committed against himself. <hi>Numb.</hi> 16.13. <hi>the earth swallowes,</hi> ver. 35. <hi>fire from heaven consumes,</hi> and ver. 48. <hi>the plague devoures fourteen thousand and seaven hundred murmurers before atonement be made.</hi>
+               </p>
+               <p>I have not digressed. As the the King is, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,<hi>set over us by God, Rom.</hi> 13.1. so we should be in subjection unto him, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>for the Lords sake,</hi> 1 <hi>Pet.</hi> 2.13.</p>
+               <p>And as the King, finding in himselfe what is naturall, endeavours by prayer to prevent the influence thereof on his Subjects; so his Subjects, exonerating themselves in humiliation before God, ought to preferre their petiti<g ref="char:EOLhyphen"/>ons unto the Lord for the King, and those in Authority by him.</p>
+               <p>This ought to be done, that we may lead, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,<hi>a quiet and peaceable life in all godlinesse and
+<pb n="16" facs="tcp:165247:13"/>honesty.</hi> And be it done; <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>because this is good and acceptable in the sight of God our Saviour,</hi> 1 <hi>Tim.</hi> 2.2, 3.</p>
+               <p>For the glory of God, the re-establishment of the King? the welfare of the Kingdom, and the prosperity of <hi>Sion,</hi> forget not this.</p>
+               <p>All depends on this, that as the King prayes for all his people, so all his people pray for him. Who be thus united will be no more at odds.</p>
+               <p>
+                  <hi>Blessed Lord be mindefull of us in the restoring of our King, and the returning, or confounding of all Rebells. Let his power once more be seen over us, and our obedience the more unto him. Hear him for us, and us for him, that thy Worship may truly by us, and peaceably, be maintained in</hi> Sion.</p>
+               <p>The <hi>Messalians,</hi> whose lewd lives in swearing, for<g ref="char:EOLhyphen"/>swearing, damning, cursing, plundring, &amp;c. promove the ruine of <hi>Sion;</hi> the <hi>Schuencfeldians,</hi> who will have no visible Church on Earth; the <hi>Catharists, Novatians, Audians, Pelagians,</hi> that seclude all offenders from the Church; the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, or voluptuaries, that think to leap over Hell into Heaven. The <hi>Separates,</hi> whose base spirits do bastardize themselves to make their Mother a whore; the <hi>Erastian</hi>-arch-hereticks, <hi>Raviliacks,</hi> King<g ref="char:EOLhyphen"/>killers, that thirst after the Royall Bloud, and take plea<g ref="char:EOLhyphen"/>sure to sheath their swords in the bowels of his most loyall Subjects are, without repentance, <hi>reserved for the blacknesse of everlasting darknesse, Jude</hi> 13.</p>
+               <p>True Christians of all sorts, high and low, ever make a curious search into themselves. Afraid of no<g ref="char:EOLhyphen"/>thing more, then to foame out, like the waves of the Sea, their own shame so command within, as not to be scan<g ref="char:EOLhyphen"/>dalous without. Their daily spots, by repentance, and
+<pb n="17" facs="tcp:165247:13"/>prayer, they clear daily. Being tender all of Christs Spouse, every one contends for her honour. If any fail, sighs, groanes, and cryes unto the Lord, expresse a sincere love of the maine. They know the evill of one member perturbs the whole body. As members there<g ref="char:EOLhyphen"/>fore of the Church militant, they heartily bewail their naturall estate, and faithfully implore grace to keep themselves, like their head, holy. He is <hi>The Holy-one,</hi> and the Motto of his is <hi>Holinesse to the Lord.</hi> Neither the way of <hi>Cain,</hi> nor the wages of <hi>Balaam,</hi> nor the gain-saying of <hi>Core</hi> is approved by them. But, having edified themselves in the faith, and love of <hi>God,</hi> they ac<g ref="char:EOLhyphen"/>cording to divine direction, pray in the holy Ghost for all, especially for Superiours. For them especially, that by right Government, and sound obedience the King<g ref="char:EOLhyphen"/>dome may be established. If one, or some chance to make, or see a breach be made by any, they work up all with this. <hi>Be mercifull O Lord. O God, be favourable un<g ref="char:EOLhyphen"/>to</hi> Sion <hi>in thy good pleasure.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, In thy good pleasure.</head>
+               <p>The preposition <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, some translate <hi>in,</hi> others <hi>with;</hi> some <hi>of,</hi> others <hi>by;</hi> some <hi>after,</hi> others <hi>for.</hi> Take whe<g ref="char:EOLhyphen"/>ther you please, the sense will not be varied.</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> is <hi>voluntas, benevolentia, beneplacitum,</hi> the will, good will, good pleasure.</p>
+               <p>This is sometime active, passive sometimes. Actively, <hi>gratia gratuita,</hi> free grace, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Gods love to his.</p>
+               <p>Passively, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>laetitia quam capit ex iis quos amat,</hi> that delight which the Lord takes in those whom he loves.</p>
+               <p>Of these two acceptions are two illustrious examples.
+<pb n="18" facs="tcp:165247:14"/>
+                  <hi>God so loved the world, that he gave his onely begotten Sonne, John</hi> 3.16. there's his good pleasure active.</p>
+               <p>Secondly, <hi>This is my beloved Son, in whom I am well pleased, Mat.</hi> 3.17. here it's passive. Not passive, as if there were passion in God, but in our apprehension passive.</p>
+               <p>Bring both together: For the love thou bearest to, and the joy thou takest in, be favourable unto <hi>Sion.</hi> Be it <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,<note place="margin">Septuag.</note> of thy good will. So be it, and thou hast thy due, whilst we possesse the gaine.</p>
+               <p>Of thy own accord thou lovest us, and by thy favour we enjoy thee.</p>
+               <p>The efficient of Gods bounty unto us, is the free mer<g ref="char:EOLhyphen"/>cy in himself. Who ground their petitions hereon are sure. To build elsewhere is on sand to build.</p>
+               <p>Because mercy pleaseth him, he will have compassion on us. 'Tis <hi>his will,</hi> and <hi>his pleasure, Mich.</hi> 7.18, 19. I will, because I will, is the highest reason from God to us.</p>
+               <p>So it is, and himself proclamed it so. <hi>I will shew mercy to whom I will shew mercy; and I will have compassion on whom I will have compassion, Exod.</hi> 33.19.</p>
+               <p>Finding nothing in man to merit, he hath cause in himself to be beneficiall.</p>
+               <p>The Apostle tells us, that God, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>through his great love wherewith he loved, hath quickned us in Christ, Ephes.</hi> 2.4, 5.</p>
+               <p>'Tis very emphaticall there; His great love! Great indeed. Because of an infinite God to men infinitely evill. Nor for a time, but for ever and ever. Not in low, in Heavenly things, things of the highest concernment, even of our salvation. For <hi>by grace are ye saved through Faith, not of your selves,</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>it is the gift of God, verse</hi> 8.</p>
+               <pb n="19" facs="tcp:165247:14"/>
+               <p> We come so short of glory, that nothing in us may promerit mercy. <hi>Rom.</hi> 3.23.44. Nothing may; because <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>all men are concluded, Rom.</hi> 3.9. and, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>all of man</hi> too <hi>under sinne, Gal.</hi> 3.22.</p>
+               <p>
+                  <hi>David</hi> therefore <hi>will goe forward in the strength of the Lord God: he will make mention of his righteousnesse, of his onely, Psal.</hi> 71.16. And <hi>Daniel</hi> ascribing righteous<g ref="char:EOLhyphen"/>nesse unto the Lord, <hi>giveth unto us nothing save open shame, Dan.</hi> 9.7.</p>
+               <p>
+                  <hi>Quicquid domi est, vile est,</hi>
+                  <note place="margin">Sen<gap reason="illegible: blotted" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</note> though spoken in another sense is true in this. What we may own is but <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, the vile privation of our best good. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, nothing, or, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, nothing worth.</p>
+               <p>For the best we call ours are <hi>splendida peccata,</hi> guil<g ref="char:EOLhyphen"/>ded sins. Not of Faith, therfore not acceptable, <hi>Heb.</hi> 11.6. And <hi>what is of faith,</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>from above is it. Jam.</hi> 1.17.</p>
+               <p>The <hi>Psalmist</hi> on that ground makes this prayer.</p>
+               <p>
+                  <hi>Not unto us, O Lord, not unto us: but unto thy Name give the glory, for thy mercy, and Truths sake,</hi> Psal. 115.1 <hi>'Tis thy promise,</hi> Psal. 132.11. <hi>and of thy love to shew mercy,</hi> v. 13. <hi>So we claim it, and no way else from thee.</hi>
+               </p>
+               <p>
+                  <hi>'Twas thy delight to dwell in</hi> Sion, <hi>and for thy delight, depart not thence. With thy presence blesse thy Saints, and let them shout for joy. Cloath Thine, and the Kings Ene<g ref="char:EOLhyphen"/>mies with shame; but on him his Crowne, and under his Crown permit thy Gospell to flourish ever.</hi>
+               </p>
+               <p>The Church in her decayes,<note place="margin">Cal.</note>
+                  <hi>Non aliundè quam ex mera Dei gratiâ restituitur,</hi> is no way, save by the meere grace of God, repaired. <hi>It is the Lords mercy that we are not consumed.</hi> Because <hi>his compassions fail not, Lam.</hi> 3.22.</p>
+               <p>Her petitions therfore in that divine Lyturgie, the Book of Comōn-Prayer, are grounded on his love &amp; pleasure.</p>
+               <p>By grace only we own that whereon our faith doth rest.</p>
+               <pb n="20" facs="tcp:165247:15"/>
+               <p>
+                  <hi>Not by works, lest any man should boast himself,</hi> Ephes. 2.9.</p>
+               <p>
+                  <hi>And why not by workes?</hi>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label>
+                  <hi>Why not glory in them? Is not the Apostles command,</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>work out your salvation?</hi> Phil. 2.12.</p>
+               <p>True; <label type="milestone">
+                     <seg type="milestoneunit">Solut. </seg>
+                  </label> we ought submissively, <hi>Per nostrae vecationis viam ad salutem progredi,</hi> in our calling to finish our course unto happinesse. That we Ought, but cannot of our selves is plaine in the next verse. <hi>God worketh in us,</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>both the will and the work after his good pleasure, Phil.</hi> 2.13.</p>
+               <p>By his grace then, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>which is in me I labour;</hi> yet not so much I, <hi>as his grace,</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>which is with me,</hi> 1 <hi>Cor.</hi> 15.15. If in, and with me, that onely is, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, the supream cause of my good. The A<g ref="char:EOLhyphen"/>gent that, the instrument my will. Of whom I receive, to God I'le returne all.</p>
+               <p>Nothing in us is, nothing can be meritorious. Though our wages are, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>according</hi> to, yet they be not <hi>by,</hi>
+                  <note place="margin">Aug.</note> and <hi>of</hi> our own labour, 1 <hi>Cor.</hi> 3.8.14 <hi>Cum Deus coronat merita nostra, nihil aliud coronat quam munera sua,</hi> when God crowns our merits, he crowns no other then his owne gifts.</p>
+               <p>As then sanctication is an individuall companion of our justification by God; so necessarily do good works, and sanctification cohere.</p>
+               <p>Not as the cause <hi>of,</hi> but as the way <hi>to</hi> salvation. <hi>In justificatis, licet non ad justificationem,</hi> in the justified they are, though not to justification necessary.</p>
+               <p>Necessary they, <hi>necessitate praesentiae,</hi> in the neces<g ref="char:EOLhyphen"/>sity of presence, <hi>non necessitate efficientiae,</hi> not in the ne<g ref="char:EOLhyphen"/>cessity of efficience. They may not proceed to justifie; yet follow the justified must they.</p>
+               <p>
+                  <hi>Of our selves O Lord, and by our owne will we can doe
+<pb n="21" facs="tcp:165247:15"/>nothing that may answer thee. 'Tis thou workest in, and with us, that we may work well. So thou doest, and thy love onely moves thee to it. For thy good pleasure then assist us still, that by thy grace our lives may be illustrious to thy glory.</hi>
+               </p>
+               <p>The <hi>Marcionites, Manichees, Hermians, Florinians,</hi> deriving all evill from the good pleasure of God, incur the shame, and will receive the reward of high blasphe<g ref="char:EOLhyphen"/>my. <hi>The Stoicks</hi> neither approving mercy in God, nor wise men, shew brazen faces, and stony hearts. The <hi>Origenists,</hi> old and new, holding a generall pardon at the generall day, extend the speciall favour of God unto the damned, deny his justice, give licence to sinne, and heap on themselves wrath against the day of wrath. The <hi>Antinomians, Libertines, Independents,</hi> determining acti<g ref="char:EOLhyphen"/>ons, good or bad, according to their opinion, run at riot to the dishonour of God, scandall of Christianity, con<g ref="char:EOLhyphen"/>fusion of the Church, and their everlasting damnati<g ref="char:EOLhyphen"/>on. The <hi>Pelagians,</hi> maintaining free will to good, that good perfect to accomplish the Law, and worthy of Heaven, value Heaven as a fancy, and Hell as a scar<g ref="char:EOLhyphen"/>crow. The <hi>Papists</hi> their followers, doubting the good will of God, and flying to their own works as compleat to justification, arrogate Christs honour, and make his satisfaction null. The <hi>Catharists, Novatians, Meletians, Donatists, Anabaptists,</hi> with the rest of our <hi>Justitiaries,</hi> and <hi>Operists,</hi> in their vaunting of Holinesse, declare themselves cockle more then wheat. For all the good they stile their owne is but, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, a dreame, and of a shadow.</p>
+               <p>True Christians acknowledging the rigour of Gods justice for sinne, comfort themselves in the sweetnesse of his mercy. That's it, which in the depth of misery
+<pb n="22" facs="tcp:165247:16"/>keeps them frō despaire. And fearing to misse that, they in the height of honour will not presume. Nor do they mind his benevolence, as proceeding from any externall cause. 'Tis in, &amp; of himself eternall, though actually shew<g ref="char:EOLhyphen"/>ed to thē in time. No time gives being to his pleasure, who found the only time to give time it's being. There was then no other cause save his wil: because he would, ther<g ref="char:EOLhyphen"/>fore he loved them. They think themselves of no value, that he may be all in all. And the more they humiliate themselves, the more they are advanced in him. To be clothed with natures robes is to be divested of his grace. They therefore dare arrogate nothing, lest they should deprive themselves of mercy. Who joyne any thing with, withstand it. Free it is, and will have entertain<g ref="char:EOLhyphen"/>ment free. So say beleevers, and make it good in their practice. They sue to God for mercy, and the cause is, because he is the Father of mercies. Mercy is his, and his delight to bestow mercy. The prayer therefore is right, and full. <hi>Be favourable O Lord, unto</hi> Sion, <hi>for thy good pleasure: Build the Walls of Jerusalem.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The other part at the next opportunity.</head>
+               <p>To the <hi>one-most God,</hi> whose <hi>unity</hi> the <hi>Angels</hi> in their <hi>holy-holy-holy hymnes</hi> resound in <hi>Trinity,</hi> be all power, and glory for ever, and ever, <hi>Amen.</hi>
+               </p>
+               <p>
+                  <hi>O Lord grant, that what hath been delivered out of thy Word may be written in our hearts, to the edifying of us un<g ref="char:EOLhyphen"/>to a perfect building in Jesus Christ,</hi> Amen.</p>
+               <p>Blessed are they that hear, and obey the Truth. For <hi>their soul shall live, Isay</hi> 33.3.</p>
+               <p>
+                  <hi>The grace of our Lord Jesus Christ, the love of God, and the fellowship of the holy Ghost be with us all evermore,</hi> Amen.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
